@@ -6,8 +6,8 @@
 #include <DHT.h>
 
 // --- Configurações WIFI ---
-const char* ssid = "203";
-const char* password = "12345678@";
+const char* ssid = ".";
+const char* password = ".";
 WiFiClient espClient;
 
 // --- MQTT ---
